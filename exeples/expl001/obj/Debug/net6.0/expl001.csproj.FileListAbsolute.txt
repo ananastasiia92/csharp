@@ -1,0 +1,15 @@
+/Users/mak/Desktop/csharp/exeples/expl001/bin/Debug/net6.0/expl001
+/Users/mak/Desktop/csharp/exeples/expl001/bin/Debug/net6.0/expl001.deps.json
+/Users/mak/Desktop/csharp/exeples/expl001/bin/Debug/net6.0/expl001.runtimeconfig.json
+/Users/mak/Desktop/csharp/exeples/expl001/bin/Debug/net6.0/expl001.dll
+/Users/mak/Desktop/csharp/exeples/expl001/bin/Debug/net6.0/expl001.pdb
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/expl001.csproj.AssemblyReference.cache
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/expl001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/expl001.AssemblyInfoInputs.cache
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/expl001.AssemblyInfo.cs
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/expl001.csproj.CoreCompileInputs.cache
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/expl001.dll
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/refint/expl001.dll
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/expl001.pdb
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/expl001.genruntimeconfig.cache
+/Users/mak/Desktop/csharp/exeples/expl001/obj/Debug/net6.0/ref/expl001.dll
